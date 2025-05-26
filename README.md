@@ -23,7 +23,7 @@ Con **¡BASTA!** lleva el clásico juego de palabras a otro nivel… ¡en versi�
 ## 🤩 ¿Qué es esto?
 Un mini dispositivo que te lanza **letras aleatorias** y **categorías locas**, ¡y tú tienes que decir una palabra antes de que se acabe el tiempo!  
 Presiona un botón y el juego comienza. Simple, rápido y perfecto para jugar con amigos, en familia o incluso en clase.
-![BAsta](/ChatGPT%20Image%2025%20may%202025,%2019_35_46.png)
+![BAsta](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
 ---
 
 ## 🧩 ¿Qué hace?
@@ -72,12 +72,24 @@ Este proyecto no solo mezcla programación y electrónica, sino también creativ
 
 ¿Listo para jugar? Porque aquí no hay segundas oportunidades…  
 **¡Dilo rápido o pierdes!** 🕹️💥
-![Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
+![Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_35_46.png)
 
 ## Diagramas
 
+[DIAGRAMA DE FLUJO](/basta_game_flowchart.mermaid)
+
+[PROTOTIPO](/WhatsApp%20Image%202025-05-25%20at%207.22.04%20PM.jpeg)
 
 ## Conclusiones
 
+Durante el desarrollo de este proyecto, logramos integrar múltiples conceptos clave del curso de Microcontroladores, aplicando tanto conocimientos teóricos como habilidades prácticas en programación y electrónica.
 
+Aprendimos a configurar y programar una pantalla LCD 16x2 con el microcontrolador PIC18F45K22 utilizando el compilador XC8, lo cual nos permitió visualizar información útil para la dinámica del juego. También exploramos cómo implementar caracteres especiales en la pantalla, dándole un toque más personalizado e interactivo a la interfaz del usuario.
+
+Una de las mejoras más notables fue la integración de un módulo I2C para la LCD, lo que redujo considerablemente el uso de pines y facilitó el cableado, haciéndolo ideal para sistemas embebidos más compactos.
+
+Además, experimentamos con la generación de PWM (modulación por ancho de pulso) para controlar un buzzer, con el que pudimos producir sonidos ajustando la frecuencia y el ciclo útil, brindando retroalimentación auditiva que mejoró la experiencia del juego.
+
+Este proyecto no solo fortaleció nuestros conocimientos en programación de periféricos, sino que también nos permitió entender cómo se integran diferentes módulos de hardware y software para crear un sistema interactivo y funcional.
+Sin duda, nos preparó mejor para afrontar retos reales de diseño electrónico y programación embebida.
 <!-- Crear una carpeta src e incluir en ella los códigos y/o el proyecto de mplab-->

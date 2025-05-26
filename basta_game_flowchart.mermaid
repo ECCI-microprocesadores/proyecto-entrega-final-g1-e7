@@ -1,0 +1,67 @@
+flowchart TD
+    A[Iniciar Juego] --> B{Seleccionar Modo}
+    
+    B --> C[Modo Normal]
+    B --> D[Modo Tryhard]
+    
+    C --> E[Elegir categoría al azar]
+    D --> F[Elegir categoría al azar]
+    
+    E --> G[Generar letra aleatoria]
+    F --> H[Generar letra aleatoria]
+    
+    G --> I[Mostrar categoría y letra]
+    H --> J[Mostrar categoría y letra]
+    
+    I --> K[Jugadores escriben respuestas]
+    J --> L[Jugadores escriben respuestas]
+    
+    K --> M{¿Alguien gritó BASTA?}
+    L --> N{¿Alguien gritó BASTA?}
+    
+    M --> |No| O{¿Presionar botón para nueva letra?}
+    N --> |No| P{¿Presionar botón para nueva letra?}
+    
+    O --> |Sí| Q[Cambiar solo la letra]
+    P --> |Sí| R[Cambiar letra Y categoría]
+    
+    Q --> S[Mostrar misma categoría con nueva letra]
+    R --> T[Mostrar nueva categoría y nueva letra]
+    
+    S --> U[Jugadores escriben respuestas]
+    T --> V[Jugadores escriben respuestas]
+    
+    U --> M
+    V --> N
+    
+    M --> |Sí| W[Detener tiempo]
+    N --> |Sí| X[Detener tiempo]
+    
+    W --> Y[Revisar respuestas]
+    X --> Z[Revisar respuestas]
+    
+    Y --> AA[Asignar puntos]
+    Z --> BB[Asignar puntos]
+    
+    AA --> CC{¿Jugar otra ronda?}
+    BB --> DD{¿Jugar otra ronda?}
+    
+    CC --> |Sí| EE{¿Cambiar modo?}
+    DD --> |Sí| FF{¿Cambiar modo?}
+    
+    EE --> |No| E
+    FF --> |No| F
+    
+    EE --> |Sí| B
+    FF --> |Sí| B
+    
+    CC --> |No| GG[Fin del Juego]
+    DD --> |No| HH[Fin del Juego]
+    
+    O --> |No| K
+    P --> |No| L
+    
+    style C fill:#e1f5fe
+    style D fill:#fff3e0
+    style GG fill:#ffebee
+    style HH fill:#ffebee
