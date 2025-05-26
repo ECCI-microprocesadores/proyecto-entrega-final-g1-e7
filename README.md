@@ -21,8 +21,11 @@ Con **¡BASTA!** lleva el clásico juego de palabras a otro nivel… ¡en versi�
 ---
 
 ## 🤩 ¿Qué es esto?
+
 Un mini dispositivo que te lanza **letras aleatorias** y **categorías locas**, ¡y tú tienes que decir una palabra antes de que se acabe el tiempo!  
 Presiona un botón y el juego comienza. Simple, rápido y perfecto para jugar con amigos, en familia o incluso en clase.
+
+
 ![BAsta](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
 ---
 
