@@ -58,6 +58,22 @@ Presiona un botón y el juego comienza. Simple, rápido y perfecto para jugar co
 ## Documentación
 
 
+## 🎮 Introducción
+
+¿Quién dijo que la electrónica no podía ser divertida?  
+Te presentamos **🚨 ¡BASTA! – El juego de palabras electrónico que no sabías que necesitabas.**
+
+Inspirado en el clásico juego de lápiz y papel, esta versión lleva la experiencia a otro nivel. Usando una pantalla LCD 16x2, un microcontrolador y algunos botones, desarrollamos un sistema que desafía tu agilidad mental con **letras aleatorias, categorías sorpresivas y un temporizador que no te da respiro**. 😱⚡
+
+El objetivo es simple: **di una palabra que empiece por la letra mostrada y que encaje con la categoría** antes de que el tiempo se acabe. Si aciertas, presionas un botón y el juego se reinicia con una nueva letra.  
+Sin registros complicados, sin seguimiento de turnos… **solo rapidez mental, diversión y mucha presión.**
+
+Este proyecto no solo mezcla programación y electrónica, sino también creatividad, juego limpio y risas garantizadas. Ideal para fiestas, clases aburridas o cualquier momento en que quieras activar tu cerebro. 🧠🔥
+
+¿Listo para jugar? Porque aquí no hay segundas oportunidades…  
+**¡Dilo rápido o pierdes!** 🕹️💥
+
+
 ## Diagramas
 
 
