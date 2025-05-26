@@ -77,6 +77,18 @@ Este proyecto no solo mezcla programación y electrónica, sino también creativ
 **¡Dilo rápido o pierdes!** 🕹️💥
 ![Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_35_46.png)
 
+**códigos** 
+
+- [main](/newmain.c)
+
+- [i2c.h](/i2c.h)
+
+- [i2c.c](/i2c.c)
+
+- [i2c.lcd.c](/i2c_lcd.c)
+
+- [i2c.lcd.h](/i2c_lcd.h)
+
 ## Diagramas
 
 [DIAGRAMA DE FLUJO](/basta_game_flowchart.mermaid)
