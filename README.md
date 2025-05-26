@@ -23,7 +23,7 @@ Con **¡BASTA!** lleva el clásico juego de palabras a otro nivel… ¡en versi�
 ## 🤩 ¿Qué es esto?
 Un mini dispositivo que te lanza **letras aleatorias** y **categorías locas**, ¡y tú tienes que decir una palabra antes de que se acabe el tiempo!  
 Presiona un botón y el juego comienza. Simple, rápido y perfecto para jugar con amigos, en familia o incluso en clase.
-
+[BAsta](/ChatGPT%20Image%2025%20may%202025,%2019_35_46.png)
 ---
 
 ## 🧩 ¿Qué hace?
@@ -58,7 +58,7 @@ Presiona un botón y el juego comienza. Simple, rápido y perfecto para jugar co
 ## Documentación
 
 
-## 🎮 Introducción
+ 🎮 Introducción
 
 ¿Quién dijo que la electrónica no podía ser divertida?  
 Te presentamos **🚨 ¡BASTA! – El juego de palabras electrónico que no sabías que necesitabas.**
@@ -72,7 +72,7 @@ Este proyecto no solo mezcla programación y electrónica, sino también creativ
 
 ¿Listo para jugar? Porque aquí no hay segundas oportunidades…  
 **¡Dilo rápido o pierdes!** 🕹️💥
-
+[Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
 
 ## Diagramas
 
