@@ -72,7 +72,7 @@ Este proyecto no solo mezcla programación y electrónica, sino también creativ
 
 ¿Listo para jugar? Porque aquí no hay segundas oportunidades…  
 **¡Dilo rápido o pierdes!** 🕹️💥
-[Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
+![Basta Promocional](/ChatGPT%20Image%2025%20may%202025,%2019_26_19.png)
 
 ## Diagramas
 
